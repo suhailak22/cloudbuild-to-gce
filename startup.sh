@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /app/github_salehram_cloudbuild-to-gce
+cd /app/github_suhailak22_cloudbuild-to-gce
 git fetch
 git pull
 cp -r * /var/www/html
